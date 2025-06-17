@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, Eu sou o Yago Baltazar, estudande de S.I!
+
+[![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoBaltazar&show_icons=true&theme=monokai&locale=pt-br)](https://github.com/YagoBaltazar/github-readme-stats)
 
 <!--
 **YagoBaltazar/YagoBaltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
