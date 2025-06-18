@@ -50,7 +50,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <br>
   
-[![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoBaltazar&show_icons=true&theme=monokai&locale=pt-br&hide_title=true&hide=issues)](https://github.com/YagoBaltazar/github-readme-stats)
+[![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoBaltazar&show_icons=true&theme=monokai&locale=pt-br&hide_title=true&hide=issues&rank_icon=github)](https://github.com/YagoBaltazar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoBaltazar&theme=monokai&locale=pt-br&layout=compact)](https://github.com/YagoBaltazar/github-readme-stats)
 
 
