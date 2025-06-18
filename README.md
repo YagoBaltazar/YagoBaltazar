@@ -1,4 +1,6 @@
 <div align="center">
+  
+  <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f92672&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
@@ -12,16 +14,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:yagobaltazarferreira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/yago-baltazar-3b377933a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/baltazar.yago/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="center">My Stack ~</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
@@ -45,7 +47,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 <br>
-<div align="center">
   
 [![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoBaltazar&show_icons=true&theme=monokai&locale=pt-br&hide_title=true&hide=issues)](https://github.com/YagoBaltazar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoBaltazar&theme=monokai&locale=pt-br&layout=compact)](https://github.com/YagoBaltazar/github-readme-stats)
