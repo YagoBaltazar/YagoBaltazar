@@ -21,7 +21,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=f92672&color:FFF)](https://www.instagram.com/baltazar.yago/)
 
 
-<h3 align="center">My Stack ~</h3>
+<h3 align="center">My Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
